@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm Divya
 
-Welcome to my GitHub profile! I am a Computer Science Engineer with a passion for Machine Learning, Blockchain, and solving real-world problems through technology.  
-
----
-
 ## 📜 About Me  
 - I am a Computer Science graduate with a strong passion for **Machine Learning** and **Data Science**. I enjoy solving complex problems, working on large-scale **data projects**, and exploring how technology can **drive innovation** and transformation.
 - Enthusiastic about Machine Learning and its **transformative potential** across various domains.  
