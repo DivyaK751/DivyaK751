@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there! 👋 I'm Bhargavi  
+# Hi there! 👋 I'm Divya
 
 Welcome to my GitHub profile! I am a Computer Science Engineer with a passion for Machine Learning, Blockchain, and solving real-world problems through technology.  
 
@@ -53,9 +53,9 @@ Welcome to my GitHub profile! I am a Computer Science Engineer with a passion fo
 ---
 
 ## 📄 Publications  
-1. **[Title of Publication 1](#)** - Published in [Journal Name].  
-2. **[Title of Publication 2](#)** - Presented at [Conference Name].  
-3. **[Title of Publication 3](#)** - Co-authored in [Research Field].  
+1. **[Open Permissioned Blockchain Solution for Private Equity Funding Using a Global, Cross-Cloud Network Blockchain Platform](https://doi.org/10.1007/978-981-99-7216-6_24)** - Published in [ Lecture Notes in Electrical Engineering, vol 1097. Springer, Singapore].  
+2. **[Keystroke Dynamics-Based Analysis and Classification of Hand Posture Using Machine Learning Techniques](https://doi.org/10.1007/978-981-99-6755-1_5)** - Presented at [Lecture Notes in Networks and Systems, vol 791. Springer, Singapore].  
+3. **[Ethereum Blockchain for Private Equity Crowdfunding: Enabling Seamless USDC and Share Token Transactions](https://doi.org/10.1007/978-981-99-7820-5_6)** - Co-authored in [Lecture Notes in Networks and Systems, vol 819. Springer, Singapore].  
 
 ---
 
