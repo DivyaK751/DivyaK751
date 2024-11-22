@@ -25,14 +25,15 @@ Welcome to my GitHub profile! I am a Computer Science Engineer with a passion fo
 
 
 ## 🌟 Projects  
-### 1. **Make My Trip Microservices**  
+### 1. **Keystroke.io**  
+- A biometric authentication system based on keystroke dynamics.  
+- Features: Real-time user identification, keystroke pattern analysis, machine learning-based authentication, and data security.  
+- **Tech Stack**: Python, PyQt5, MySQL, Flask.
+
+### 2. **Make My Trip Microservices**  
 - A holiday booking system with microservices architecture.  
 - Features: Booking hotels, flights, and transport.  
-- **Tech Stack**: Java, Spring Boot, REST APIs, Docker, MySQL.  
-
-### 2. **Smart Home Automation**  
-- IoT-based project controlling devices using voice commands.  
-- **Tech Stack**: ESP8266, Arduino, Google Assistant, Adafruit Cloud.  
+- **Tech Stack**: Java, Spring Boot, REST APIs, Docker, MySQL. 
 
 ### 3. **AAYUSH - Medical Emergency Platform**  
 - First-place winner in the VJ Hackathon (Healthcare).  
@@ -46,7 +47,7 @@ Welcome to my GitHub profile! I am a Computer Science Engineer with a passion fo
 ---
 
 ## 🏆 Achievements  
-- **Hackathon Wins**: Multiple wins including IEEE Hackathons and VJ Hackathon.  
+- **Hackathon Wins**: Multiple wins including Bank of Baroda Hackathons and VJ Hackathon.  
 - **Best Outgoing Student**: Ramaiah Institute of Technology (2019-2023).  
 - **Research Publications**: Published 3 research papers in Machine Learning and Blockchain networks.  
 
@@ -55,17 +56,9 @@ Welcome to my GitHub profile! I am a Computer Science Engineer with a passion fo
 ## 📄 Publications  
 1. **[Open Permissioned Blockchain Solution for Private Equity Funding Using a Global, Cross-Cloud Network Blockchain Platform](https://doi.org/10.1007/978-981-99-7216-6_24)** - Published in [ Lecture Notes in Electrical Engineering, vol 1097. Springer, Singapore].  
 2. **[Keystroke Dynamics-Based Analysis and Classification of Hand Posture Using Machine Learning Techniques](https://doi.org/10.1007/978-981-99-6755-1_5)** - Presented at [Lecture Notes in Networks and Systems, vol 791. Springer, Singapore].  
-3. **[Ethereum Blockchain for Private Equity Crowdfunding: Enabling Seamless USDC and Share Token Transactions](https://doi.org/10.1007/978-981-99-7820-5_6)** - Co-authored in [Lecture Notes in Networks and Systems, vol 819. Springer, Singapore].  
-
----
-
-## 📂 GitHub Stats  
-![Bhargavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=prs,issues&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
-
+3. **[Ethereum Blockchain for Private Equity Crowdfunding: Enabling Seamless USDC and Share Token Transactions](https://doi.org/10.1007/978-981-99-7820-5_6)** - Co-authored in [Lecture Notes in Networks and Systems, vol 819. Springer, Singapore].
 ---
 
 ## 📫 Connect with Me  
-- **LinkedIn**: [Your Profile](#)  
-- **Personal Website/Portfolio**: [Your Website](#)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/divyasri-k-755b13193/)  
+- **Email**: [divyasri751@gmail.com](divyasri751@gmail.com)  
