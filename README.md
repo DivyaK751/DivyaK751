@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there! 👋 I'm Divya
 
 Welcome to my GitHub profile! I am a Computer Science Engineer with a passion for Machine Learning, Blockchain, and solving real-world problems through technology.  
@@ -7,13 +5,9 @@ Welcome to my GitHub profile! I am a Computer Science Engineer with a passion fo
 ---
 
 ## 📜 About Me  
-- **🎓 Education**: B.E. in Computer Science and Engineering, Ramaiah Institute of Technology, Bangalore.  
-  - Awarded **Best Outgoing Student (2019-2023)** for academic excellence and leadership.  
-  - Secured second rank in my department.  
-  - Winner of multiple **IEEE hackathons**.  
-- **🌐 Interests**: Machine Learning, Blockchain, Data Engineering, and Microservices Architecture.  
-- **💼 Current Role**: Working with AWS, SageMaker, and Snowflake to manage and analyze large datasets (~90M rows).  
-- **🚀 Fun Fact**: I transitioned from writing C++ programs in high school to building robust ML pipelines and Blockchain applications.  
+- I am a Computer Science graduate with a strong passion for **Machine Learning** and **Data Science**. I enjoy solving complex problems, working on large-scale data projects, and exploring how technology can drive innovation and transformation.
+- **🌐 Interests**: Enthusiastic about **Machine Learning** and its transformative potential across various domains.  
+- **💼 Current Role**: Data Scientist.   
 
 ---
 
